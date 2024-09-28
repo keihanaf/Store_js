@@ -8,7 +8,7 @@
 <p>
 This is a store website built with JavaScript. The project consists of two main sections: Authorization (using JWT) and the store itself. An external API is used in this project, which will be further explained in the API section below in the README.</p>
 <br>
-<h4><a href="">Store site (JS)</a></h4>
+<h4><a href="https://store-js-lemon.vercel.app/">Store site (JS)</a></h4>
 <br>
 <h3 align="left">About the project:</h3>
 <h5>Authorization (JWT):</h5>
